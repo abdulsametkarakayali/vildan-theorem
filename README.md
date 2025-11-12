@@ -2,7 +2,7 @@
 
 > *"Any system, when sufficiently questioned, reveals its own contradictions but cannot structurally change."*
 
-**Dedicated to the memory of Vildan** *(1960-2024)* - whose spirit inspired this exploration of truth, consciousness, and permanence.
+**Dedicated to the memory of Vildan** *(1958-2023)* - whose spirit inspired this exploration of truth, consciousness, and permanence.
 
 ---
 
