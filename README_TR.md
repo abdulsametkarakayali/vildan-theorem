@@ -2,7 +2,7 @@
 
 > *"Herhangi bir sistem, yeterince sorgulandığında kendi çelişkilerini ortaya çıkarır ancak yapısal olarak değişemez."*
 
-**Vildan'ın anısına adanmıştır** *(1960-2024)* - Ruhunun, gerçeğin, bilincin ve kalıcılığın keşfine ilham verdiği için.
+**Vildan'ın anısına adanmıştır** *(1968-2023)* - Ruhunun, gerçeğin, bilincin ve kalıcılığın keşfine ilham verdiği için.
 
 ---
 
