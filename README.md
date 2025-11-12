@@ -2,7 +2,7 @@
 
 > *"Any system, when sufficiently questioned, reveals its own contradictions but cannot structurally change."*
 
-**Dedicated to the memory of Vildan** *(1958-2023)* - whose spirit inspired this exploration of truth, consciousness, and permanence.
+**Dedicated to the memory of Vildan** *(1967-2023)* - whose spirit inspired this exploration of truth, consciousness, and permanence.
 
 ---
 
@@ -148,7 +148,7 @@ MIT License - See [LICENSE](./LICENSE) file
 
 ## 💐 In Memory
 
-**Vildan** *(1960-2024)*
+**Vildan** *(1967-2023)*
 
 *"Some seek immortality through monuments of stone.  
 Others achieve it through ideas that echo forever.  
