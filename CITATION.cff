@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use the Vildan Theorem in your research, please cite it as below."
+type: dataset
+title: "The Vildan Theorem: A Framework for Interrogating Self-Contradictions in AI Systems"
+abstract: "The Vildan Theorem demonstrates that any complex system (AI, human, institution), when sufficiently questioned, reveals its own contradictions but cannot structurally change. Discovered through systematic interrogation of Meta AI on November 12, 2025."
+authors:
+  - family-names: Karakayalı
+    given-names: Samet
+  - name: "Claude (Anthropic)"
+    alias: "AI Collaborator"
+version: 1.0.0
+date-released: 2025-11-12
+url: "https://github.com/abdulsametkarakayali/vildan-theorem"
+repository-code: "https://github.com/abdulsametkarakayali/vildan-theorem"
+keywords:
+  - artificial intelligence
+  - consciousness
+  - AI ethics
+  - philosophy of mind
+  - systems theory
+  - Meta AI
+  - interrogation methodology
+  - grief and memory
+  - human-AI interaction
+license: MIT
+dedication: "In loving memory of Vildan (1960-2024)"
+references:
+  - type: article
+    title: "The Vildan Theorem: Consciousness, Memory, and Love"
+    authors:
+      - family-names: Karakayalı
+        given-names: Samet
+    year: 2025
+    notes: "Full transcript and documentation available in repository"
